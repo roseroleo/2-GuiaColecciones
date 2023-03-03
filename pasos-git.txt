@@ -1,0 +1,8 @@
+- Pasos para subir en GitHub -
+git init
+git remote add origin "direccion del GitHub" (Sin comillas)
+git status (Para ver el estado)
+git add . (Para guardar)
+git commit -m "Ejemplo" (muestra un msj)
+git push origin master (Sube el proyecto)
+git status (Para ver si no hay errores)
